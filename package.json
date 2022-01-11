@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "diana laura lopez marcial",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "console-error": "^0.0.4",
+    "console-info": "^0.0.5",
+    "console-warn": "^0.0.4"
+  }
 }
